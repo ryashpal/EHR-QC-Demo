@@ -1,0 +1,149 @@
+                            concept_name                             |   concept_code   | person_level_coverage | episode_level_coverage 
+---------------------------------------------------------------------+------------------+-----------------------+------------------------
+ Blood urea nitrogen                                                 | 72341003         |     99.49443882709808 |                   99.5
+ Sodium level                                                        | 1020681000000107 |     99.49443882709808 |                   99.5
+ Creatinine level                                                    | 1032061000000108 |     99.29221435793731 |                   99.3
+ Potassium level                                                     | 1028441000000104 |     99.08998988877654 |                   99.1
+ Hematocrit                                                          | 142829008        |     99.08998988877654 |                   99.1
+ Haematocrit                                                         | 142829008        |     99.08998988877654 |                   99.1
+ Chloride                                                            | 50213009         |     98.98887765419616 |                     99
+ Chloride salt                                                       | 50213009         |     98.98887765419616 |                     99
+ Platelet count                                                      | 1022651000000100 |       98.685540950455 |                   98.7
+ Haemoglobin estimation                                              | 1022431000000105 |       98.685540950455 |                   98.7
+ Red blood cell count                                                | 14089001         |     98.58442871587462 |                   98.6
+ Calcium level                                                       | 1028041000000107 |     98.48331648129424 |                   98.5
+ MCHC - Mean corpuscular haemoglobin concentration                   | 1022481000000109 |      98.0788675429727 |                   98.1
+ MCV - Mean corpuscular volume                                       | 1022491000000106 |      98.0788675429727 |                   98.1
+ MCH - Mean corpuscular haemoglobin                                  | 1022471000000107 |     95.24772497472195 |                   95.3
+ Albumin                                                             | 52454007         |     93.93326592517694 |                   93.8
+ White blood cell count - observation                                | 767002           |      92.3154701718908 |                   92.2
+ White blood cell count                                              | 767002           |      92.3154701718908 |                   92.2
+ Glutamic oxaloacetic transaminase measurement                       | 45896001         |     91.80990899898887 |                   91.7
+ Aspartate aminotransferase measurement                              | 45896001         |     91.80990899898887 |                   91.7
+ Total bilirubin level                                               | 1026761000000106 |     91.70879676440849 |                   91.6
+ Serum alkaline phosphatase level                                    | 1000621000000104 |     91.70879676440849 |                   91.6
+ Alanine aminotransferase                                            | 56935002         |     91.50657229524772 |                   91.4
+ L-alanine:2-oxoglutarate aminotransferase                           | 56935002         |     91.50657229524772 |                   91.4
+ Red blood cell distribution width                                   | 993501000000105  |     90.69767441860465 |                   90.5
+ Glucose level                                                       | 1018851000000108 |     90.29322548028311 |                   90.2
+ Total protein measurement                                           | 304383000        |     90.09100101112234 |                   89.9
+ Bicarbonate level                                                   | 1032311000000109 |     89.88877654196158 |                   89.8
+ Anion gap                                                           | 102637000        |     85.13650151668352 |                   85.3
+ Anion gap, function                                                 | 102637000        |     85.13650151668352 |                   85.3
+ Lymph                                                               | 38000004         |     82.40647118301314 |                   82.3
+ Infectious mononucleosis test                                       | 993571000000102  |     82.40647118301314 |                   82.3
+ Eosinophil count                                                    | 1022561000000101 |       80.788675429727 |                   80.7
+ Prothrombin time ratio                                              | 1013911000000109 |     80.68756319514661 |                   80.7
+ Basophil count                                                      | 1022571000000108 |       78.159757330637 |                   78.1
+ Lactate                                                             | 83036002         |     77.95753286147624 |                   77.8
+ Polyp size                                                          | 372258008        |     77.75530839231547 |                   77.6
+ Dextrose                                                            | 67079006         |     74.92416582406472 |                   74.9
+ Glucose                                                             | 67079006         |     74.92416582406472 |                   74.9
+ Prothrombin time                                                    | 852471000000107  |     72.39635995955511 |                   72.3
+ Phosphate                                                           | 259296007        |      67.9474216380182 |                     68
+ Arterial oxygen level                                               | 1007081000000107 |     66.73407482305359 |                     67
+ Bicarbonate                                                         | 68615006         |      66.6329625884732 |                   66.9
+ Mean platelet volume                                                | 993481000000101  |     66.32962588473205 |                   66.6
+ Partial pressure of carbon dioxide in umbilical cord arterial blood | 736730002        |      65.4196157735086 |                   65.7
+ Oxygen concentration - inspired                                     | 250774007        |     64.91405460060668 |                   65.1
+ Inspired oxygen concentration                                       | 250774007        |     64.91405460060668 |                   65.1
+ Fluid sample pH                                                     | 1024211000000107 |     64.40849342770476 |                   64.6
+ Hemoglobin saturation with oxygen                                   | 103228002        |    60.161779575328616 |                   60.3
+ Haemoglobin saturation with oxygen                                  | 103228002        |    60.161779575328616 |                   60.3
+ Specific gravity                                                    | 50794000         |     59.25176946410516 |                     59
+ Partial thromboplastin time, activated                              | 42525009         |     58.13953488372093 |                   58.1
+ Vancomycin                                                          | 372735009        |     45.39939332659252 |                   45.2
+ Troponin I                                                          | 102683006        |     40.95045500505561 |                   40.8
+ Inhibitory troponin subunit                                         | 102683006        |     40.95045500505561 |                   40.8
+ Plasma creatinine phosphokinase MB isoenzyme level                  | 1026411000000101 |     36.80485338725986 |                   36.4
+ Hyperbasaemia                                                       | 129907001        |      35.8948432760364 |                     36
+ Base excess                                                         | 129907001        |      35.8948432760364 |                     36
+ Direct (conjugated) bilirubin                                       | 1028081000000104 |    33.367037411526795 |                   33.4
+ Band neutrophil count                                               | 1000301000000100 |     31.34479271991911 |                   31.6
+ Maximum expiratory airway pressure                                  | 17202005         |    28.614762386248735 |                   28.6
+ Peak expiratory pressure                                            | 17202005         |    28.614762386248735 |                   28.6
+ Blood total carbon dioxide (calculated)                             | 1017411000000108 |    28.412537917087967 |                   28.5
+ Serum lipase level                                                  | 997421000000105  |     26.99696663296259 |                   26.8
+ Thyroid stimulating hormone measurement                             | 61167004         |     26.79474216380182 |                   26.5
+ Thyrotropin stimulating hormone measurement                         | 61167004         |     26.79474216380182 |                   26.5
+ Carboxyhaemoglobin level                                            | 851001000000100  |    23.154701718907987 |                     23
+ Serum ionized calcium (pH 7.4) level                                | 1013241000000102 |     22.75025278058645 |                   22.6
+ Triglyceride level                                                  | 850991000000104  |     21.53690596562184 |                   21.3
+ Methaemoglobin level                                                | 1019421000000108 |     21.03134479271992 |                   20.9
+ Serum B-type natriuretic peptide concentration                      | 998441000000104  |    20.020222446916076 |                   19.9
+ Negative base excess                                                | 102634007        |     19.61577350859454 |                   19.6
+ Base deficit                                                        | 102634007        |     19.61577350859454 |                   19.6
+ Respiratory rate                                                    | 86290005         |    14.863498483316482 |                   14.8
+ Respiratory frequency                                               | 86290005         |    14.863498483316482 |                   14.8
+ Intermittent positive pressure breathing                            | 243144002        |    13.953488372093023 |                   13.9
+ Patient triggered inspiratory assistance                            | 243144002        |    13.953488372093023 |                   13.9
+ Ammonia                                                             | 43953005         |    13.346814964610719 |                   13.3
+ Iron level                                                          | 1027751000000106 |     12.94236602628918 |                   12.8
+ CcapO2 - Capillary oxygen content                                   | 373631004        |    12.740141557128412 |                   12.7
+ Capillary oxygen content                                            | 373631004        |    12.740141557128412 |                   12.7
+ Lactate dehydrogenase level                                         | 1028111000000107 |     12.43680485338726 |                   12.3
+ Sodium                                                              | 39972003         |    12.234580384226492 |                   12.2
+ Oxygen uptake                                                       | 251832002        |     11.93124368048534 |                   11.8
+ Fibrinogen level                                                    | 1019301000000109 |    11.526794742163801 |                   11.4
+ Cortisol level                                                      | 1020931000000100 |    11.526794742163801 |                   11.5
+ Serum ferritin level                                                | 993381000000106  |     11.02123356926188 |                   10.9
+ Serum prealbumin level                                              | 1014481000000108 |     9.908998988877654 |                    9.8
+ High density lipoprotein                                            | 9422000          |     9.706774519716886 |                    9.6
+ Creatinine                                                          | 15373003         |     9.403437815975733 |                    9.4
+ Serum total iron binding capacity                                   | 1015451000000101 |     9.100101112234581 |                      9
+ Amylase clearance                                                   | 1005581000000106 |     8.493427704752275 |                    8.6
+ Serum free T4 level                                                 | 1016971000000106 |     8.493427704752275 |                    8.4
+ Erythrocyte sedimentation rate                                      | 1022511000000103 |      8.39231547017189 |                    8.3
+ Cholesterol                                                         | 84698008         |     8.291203235591507 |                    8.2
+ Low density lipoprotein                                             | 22244007         |     7.886754297269969 |                    7.8
+ Plasma vitamin B12 level                                            | 1003061000000105 |     7.684529828109201 |                    7.6
+ Elevated C-reactive protein                                         | 119971000119104  |     6.774519716885743 |                    6.7
+ Oxyhaemoglobin level                                                | 1017031000000105 |     6.673407482305359 |                    6.8
+ B12/folate level                                                    | 392811000        |     6.370070778564206 |                    6.3
+ Osmolality                                                          | 56953008         |     6.066734074823054 |                      6
+ Airway pressure                                                     | 250852008        |     5.358948432760364 |                    5.3
+ Pressure in patient's airways                                       | 250852008        |     5.358948432760364 |                    5.3
+ Uric acid level                                                     | 1032161000000109 |      5.25783619817998 |                    5.2
+ Serum osmolality                                                    | 1000741000000103 |      5.25783619817998 |                    5.2
+ Partial thromboplastin time ratio                                   | 1001411000000101 |     4.954499494438827 |                    4.9
+ Serum digoxin level                                                 | 1006691000000103 |     4.651162790697675 |                    4.6
+ Reticulocyte count                                                  | 45995003         |     4.550050556117291 |                    4.5
+ 24 hour urine protein output                                        | 1016051000000101 |     4.550050556117291 |                    4.7
+ Reticulocyte count - observation                                    | 45995003         |     4.550050556117291 |                    4.5
+ Transferrin level                                                   | 1021111000000102 |     4.550050556117291 |                    4.5
+ Spontaneous                                                         | 5054005          |     4.448938321536906 |                    4.4
+ Haptoglobin                                                         | 85294008         |     4.145601617795753 |                    4.1
+ Tropomyosin-binding troponin subunit                                | 102682001        |     4.044489383215369 |                      4
+ Troponin T                                                          | 102682001        |     4.044489383215369 |                      4
+ Measurement of protein in cerebrospinal fluid specimen              | 84130004         |    2.4266936299292214 |                    2.4
+ Gentamycin                                                          | 387321007        |    1.5166835187057635 |                    1.5
+ Gentamicin                                                          | 387321007        |    1.5166835187057635 |                    1.5
+ Myoglobin                                                           | 82693003         |    1.2133468149646107 |                    1.2
+ Tobramycin                                                          | 373548001        |    1.1122345803842264 |                    1.1
+ Phenytoin level                                                     | 996521000000108  |    1.0111223458038423 |                      1
+ Tacrolimus                                                          | 386975001        |    0.8088978766430738 |                    0.8
+ Serum T4 level                                                      | 1010511000000108 |    0.8088978766430738 |                    0.8
+ Phenobarbitone                                                      | 373505007        |    0.7077856420626896 |                    0.7
+ Phenobarbital                                                       | 373505007        |    0.7077856420626896 |                    0.7
+ Serum T3 level                                                      | 1010501000000106 |    0.6066734074823054 |                    0.6
+ Acetaminophen measurement                                           | 46093004         |    0.5055611729019212 |                    0.5
+ Absolute CD4 count                                                  | 1008561000000106 |    0.5055611729019212 |                    0.5
+ Salicylate level                                                    | 996561000000100  |    0.4044489383215369 |                    0.4
+ Carbamazepine                                                       | 387222003        |    0.3033367037411527 |                    0.3
+ Cyclosporin index                                                   | 1014701000000107 |    0.3033367037411527 |                    0.3
+ Amikacin                                                            | 387266001        |   0.20222446916076844 |                    0.2
+ Serum ANA (anti nuclear antibody) level                             | 1007691000000100 |   0.20222446916076844 |                    0.2
+ Ethanol                                                             | 419442005        |   0.20222446916076844 |                    0.2
+ Serum ketone level                                                  | 992981000000100  |   0.20222446916076844 |                    0.2
+ Protein C                                                           | 25525005         |   0.20222446916076844 |                    0.2
+ Protein C, NOS                                                      | 25525005         |   0.20222446916076844 |                    0.2
+ Ethyl alcohol                                                       | 419442005        |   0.20222446916076844 |                    0.2
+ Human herpes simplex virus type 1                                   | 15302007         |   0.10111223458038422 |                    0.1
+ Lithium                                                             | 85899009         |   0.10111223458038422 |                    0.1
+ Urea nitrogen measurement, urine                                    | 105013009        |   0.10111223458038422 |                    0.1
+ Serum theophylline level                                            | 1017231000000101 |   0.10111223458038422 |                    0.1
+ Plasma tobramycin level                                             | 1006871000000101 |   0.10111223458038422 |                    0.1
+ Clostridium difficile toxin level                                   | 993771000000105  |   0.10111223458038422 |                    0.1
+ Plasma amikacin level                                               | 1004741000000108 |   0.10111223458038422 |                    0.1
+(145 rows)
+
